@@ -5,7 +5,7 @@ let users = {
   },
   Jeff: {
     age: 32,
-    online: true
+    online: false
   },
   Sarah: {
     age: 48,
