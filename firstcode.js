@@ -1,28 +1,33 @@
 let users = {
-  Alan: {
-    age: 27,
+  Jay: {
+    age: 20,
     online: true
   },
-  Jeff: {
-    age: 32,
+  Krutik: {
+    age: 20,
     online: false
   },
-  Sarah: {
-    age: 48,
+  Sandip: {
+    age: 21,
     online: true
   },
-  Ryan: {
+  Yash: {
     age: 19,
+    online: true
+  },
+  Harsh: {
+    age: 20,
     online: true
   }
 };
 
 function isEveryoneHere(userObj) {
   // Only change code below this line
-  return userObj.hasOwnProperty("Alan") &&
-    userObj.hasOwnProperty("Jeff") &&
-    userObj.hasOwnProperty("Sarah") &&
-    userObj.hasOwnProperty("Ryan");
+  return userObj.hasOwnProperty("Krutik") &&
+    userObj.hasOwnProperty("Jay") &&
+    userObj.hasOwnProperty("Sandip") &&
+    userObj.hasOwnProperty("Yash")&&
+    userObj.hasOwnProperty("Harsh");
   // Only change code above this line
 }
 
