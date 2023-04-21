@@ -44,14 +44,14 @@ class ComplexNumber {
 		System.out.print("first Complex number: ");
 		c1.showC();
 		
-		System.out.print("\nSecond Complex number: ");
+		System.out.print("Second Complex number: ");
 		c2.showC();
 
 		// calling add() to perform addition
 		ComplexNumber res = add(c1, c2);
 
 		// displaying addition
-		System.out.println("\nAddition is :");
+		System.out.println("Addition is :");
 		res.showC();
 	}
 }
