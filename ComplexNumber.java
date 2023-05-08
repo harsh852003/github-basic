@@ -37,8 +37,8 @@ class ComplexNumber {
 	{
 
 		// creating two complex numbers
-		ComplexNumber c1 = new ComplexNumber(4, 5);
-		ComplexNumber c2 = new ComplexNumber(10, 5);
+		ComplexNumber c1 = new ComplexNumber(10, 5);
+		ComplexNumber c2 = new ComplexNumber(19, 5);
 
 		// printing complex numbers
 		System.out.print("first Complex number: ");
