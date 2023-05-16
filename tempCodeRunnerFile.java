@@ -1,1 +1,1 @@
-Testthrows1
+TestInheritance2
