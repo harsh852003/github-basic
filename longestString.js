@@ -5,5 +5,5 @@ function longest_string(str_ara) {
     return result;
   }
   
-  console.log(longest_string(['I', 'am', 'Web',
-                                            'Developer','..']))
+  console.log(longest_string(['I', 'am', 'Web', 'Developer','..']))
+  console.log(longest_string(['I','AMWORKING ON ','JS PROJECTS']))
