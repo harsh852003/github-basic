@@ -1,1 +1,0 @@
-TestInheritance2
